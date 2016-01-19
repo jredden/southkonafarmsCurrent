@@ -1,0 +1,6 @@
+// $Id$
+
+Skinr 6.x-2.x, xxxx-xx-xx
+-------------------------
+#891942 by ericduran, moonray | jm.federico: Fixed class lost when editing block and user doesn't have 'access skinr classes" permission.
+#906764 by Vraja, DamienMcKenna: Fixed Logic error in handlers.inc skinr_submit_handler().
